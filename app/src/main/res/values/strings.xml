@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">RestoApp</string>
+
+    <string name="start"> Let get Started </string>
+        <string name="title2"> Best Foods</string>
+        <string name="welcome">We have everything you need to satisfy your hunger and some special African foods that you will like and enjoy to eat</string>
+        <string name="back_button">Back</string>
+        <string name="title">restaurantJohn</string>
+        <string name="name1"> Freeze fish</string>
+        <string name="name2">Freeze fish with fufu and ndunda</string>">
+        <string name="name3">Rice Chicken</string>
+        <string name="name4"> Rice Grilled Chicken</string>
+        <string name="name5">Chicken soups with rice</string>
+        <string name="name6">Pondu with fufu and fish
+</string>
+        <string name="name7">Pondu with Fufu and Makayabu </string>
+        <string name="name8">Beans and Rice</string>
+        <string name="name9">Freeze fish with fufu and ndunda</string>
+        <string name="name10">Rice Chicken and soup</string>
+
+        <string name="description1">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat></string>
+        <string name="description2">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description3">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description4">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description5">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description6">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description7">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description8">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</string>
+        <string name="description9">The dish is made using prepared cassava leaves that are cooked in a pot, with or without spices. In the center of the country, for example, Pondu is simply cooked with water and a pinch of salt. In other parts of the country, oil—particularly palm oil—and spices are added, as well as onions, eggplants, scallions, etc.
+
+It can be enjoyed with rice as well as Fufu (a dough-like side dish that will be detailed in the upcoming section of the article) or plantains, but this list is not exhaustive. You can also add beef, fish, or beans to the dish.</string>
+        <string name="description10">It is a dish generally composed of boiled fish with tomato, salt, and chili and wrapped in banana leaves or other wild plants, which will imbue the fish with their aromas. Everything is then put on a grill. Adding other spices, such as garlic and celery, enhances the flavor.</string>
+
+        <string name="snippet1">lorem ipsum dolor sit amet, consectetur adipiscing elit, consequat.</string>
+        <string name="snippet2">lorem ipsum dolor sit amet, consectetur adipiscing elit, equa.</string>
+        <string name="snippet3">lorem ipsum dolor sit amet, consectetur adipiscing elit, ,.</string>
+        <string name="snippet4">lorem ipsum dolor sit amet, consectetur adipiscing elit,t.</string>
+        <string name="snippet5">lorem ipsum dolor sit amet, consectetur adipiscing elit,,.</string>
+        <string name="snippet6">lorem ipsum dolor sit amet, consectetur adipiscing elitt.</string>
+        <string name="snippet7">lorem ipsum dolor sit amet, consectetur adipiscing elit,iat.</string>
+        <string name="snippet8">lorem ipsum dolor sit amet, consectetur adipiscing.</string>
+        <string name="snippet9">lorem ipsum dolor sit amet, consectetur adipiscingminim v.</string>
+        <string name="snippet10">lorem ipsum dolor sit amet, consectetur adipiscing elit, sed dom  ut.</string>
+
+        <string name="price1">12</string>
+        <string name="price2">20</string>
+        <string name="price3">30</string>
+        <string name="price4">14</string>
+        <string name="price5">13</string>
+        <string name="price6">15</string>
+        <string name="price7">23</string>
+        <string name="price8">18</string>
+        <string name="price9">10</string>
+        <string name="price10">7</string>
+
+
+</resources>
